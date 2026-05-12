@@ -57,7 +57,7 @@ dribbble-clone/
 
 ## Demo Video
 
-[Watch Demo Video](./Videos/demo-video.mp4)
+[Watch Demo Video](https://drive.google.com/file/d/1D35QO1oYn6AZgwNSBkqdu1NaZweCW9EV/view?usp=drive_link)
 
 ## How to Run
 
