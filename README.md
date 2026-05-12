@@ -43,6 +43,10 @@ dribbble-clone/
 
 ## Screenshots
 
+### Desktop View
+
+![Desktop Preview](./Images/desktop-preview.png)
+
 ### Hero Section
 
 ![Hero Section](./Images/hero-section.png)
@@ -50,10 +54,6 @@ dribbble-clone/
 ### Explore Designs Section
 
 ![Explore Designs](./Images/explore-designs.png)
-
-### Desktop View
-
-![Desktop Preview](./Images/desktop-preview.png)
 
 ## Demo Video
 
