@@ -36,9 +36,6 @@ dribbble-clone/
 │   ├── desktop-preview.png
 │   ├── explore-designs.png
 │   └── hero-section.png
-│
-├── Videos/
-│   └── demo-video.mp4
 ```
 
 ## Screenshots
